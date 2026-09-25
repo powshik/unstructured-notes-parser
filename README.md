@@ -13,8 +13,10 @@ Meeting notes, logs, and rapid transcripts are naturally chaotic. Critical actio
 ## 📦 Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/powshik/unstructured-notes-parser.git
+   cd unstructured-notes-parser
+
+   
    ```
 2. Run the pipeline against the baseline dataset:
    ```bash
