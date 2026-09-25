@@ -1,0 +1,7 @@
+Client call - Sept 24
+
+Client wants the dashboard filters to be faster. action: profile the filter query and see where the bottleneck is
+They also mentioned onboarding docs are outdated.
+Nothing else major, mostly a status update call.
+TODO: send client a follow-up summary email today
+action: schedule a follow-up call for next Tuesday

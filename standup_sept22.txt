@@ -1,0 +1,8 @@
+Standup notes - Sept 22
+
+Talked about the API rate limiting issue again. TODO: check with backend team about the retry logic before Friday.
+Design review went fine, no blockers.
+action: send updated wireframes to Priya by EOD tomorrow
+Random thought - maybe we should switch to a different logging library at some point, not urgent.
+TODO fix the flaky test in auth module
+Lunch was good.
